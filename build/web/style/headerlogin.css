@@ -1,0 +1,13 @@
+* {
+    box-sizing: border-box;
+}
+.header{
+    padding: 0px 50px 0px 90px;
+    
+}
+
+.welcom {
+    color: #fff;
+    padding: 10px 30px 0px 30px;
+    font-size: 19px;
+}
